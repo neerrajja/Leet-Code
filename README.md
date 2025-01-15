@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/neerrajja/Leet-Code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/neerrajja/Leet-Code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
