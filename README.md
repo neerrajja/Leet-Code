@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/neerrajja/Leet-Code/tree/master/0013-roman-to-integer) |
 | [1502-construct-k-palindrome-strings](https://github.com/neerrajja/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/neerrajja/Leet-Code/tree/master/0013-roman-to-integer) |
 | [1502-construct-k-palindrome-strings](https://github.com/neerrajja/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/neerrajja/Leet-Code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/neerrajja/Leet-Code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/neerrajja/Leet-Code/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
