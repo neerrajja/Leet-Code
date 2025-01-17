@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/neerrajja/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/neerrajja/Leet-Code/tree/master/0020-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/neerrajja/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/neerrajja/Leet-Code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/neerrajja/Leet-Code/tree/master/0020-valid-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/neerrajja/Leet-Code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Math
 |  |
