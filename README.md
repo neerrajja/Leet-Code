@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neerrajja/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/neerrajja/Leet-Code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/neerrajja/Leet-Code/tree/master/0066-plus-one) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/neerrajja/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
