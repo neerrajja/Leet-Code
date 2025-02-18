@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/neerrajja/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/neerrajja/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/neerrajja/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/neerrajja/Leet-Code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/neerrajja/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/neerrajja/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/neerrajja/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/neerrajja/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/neerrajja/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/neerrajja/Leet-Code/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
