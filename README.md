@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/neerrajja/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/neerrajja/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/neerrajja/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/neerrajja/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/neerrajja/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/neerrajja/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/neerrajja/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/neerrajja/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/neerrajja/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/neerrajja/Leet-Code/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/neerrajja/Leet-Code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/neerrajja/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/neerrajja/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
