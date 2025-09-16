@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/neerrajja/Leet-Code/tree/master/0020-valid-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/neerrajja/Leet-Code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/neerrajja/Leet-Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neerrajja/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neerrajja/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/neerrajja/Leet-Code/tree/master/0070-climbing-stairs) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/neerrajja/Leet-Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/neerrajja/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neerrajja/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/neerrajja/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/neerrajja/Leet-Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/neerrajja/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/neerrajja/Leet-Code/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
